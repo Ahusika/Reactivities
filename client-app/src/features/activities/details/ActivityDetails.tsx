@@ -11,7 +11,7 @@ import ActivityDetailedInfo from "./ActivityDetailedInfo";
 import ActivityDetailedSidebar from "./ActivityDetailedSidebar";
 
 
-
+//test
 
 export default observer ( function ActivityDetails() {
 

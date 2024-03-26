@@ -10,9 +10,6 @@ import ActivityDetailedHeader from "./ActivityDetailedHeader";
 import ActivityDetailedInfo from "./ActivityDetailedInfo";
 import ActivityDetailedSidebar from "./ActivityDetailedSidebar";
 
-
-//test 3377
-
 export default observer ( function ActivityDetails() {
 
     const { activityStore } = useStore();
